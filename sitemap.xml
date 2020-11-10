@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://saeidshirazi.github.io/authors/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://saeidshirazi.github.io/categories/</loc>
+    <loc>/authors/</loc>
   </url>
   
   <url>
-    <loc>https://saeidshirazi.github.io/post/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://saeidshirazi.github.io/publication_types/</loc>
+    <loc>/author/nelson-bighetti/</loc>
   </url>
   
   <url>
-    <loc>https://saeidshirazi.github.io/publication/</loc>
+    <loc>/post/</loc>
   </url>
   
   <url>
-    <loc>https://saeidshirazi.github.io/talk/</loc>
+    <loc>/publication_types/</loc>
   </url>
   
   <url>
-    <loc>https://saeidshirazi.github.io/</loc>
+    <loc>/publication/</loc>
   </url>
   
   <url>
-    <loc>https://saeidshirazi.github.io/author/saeid-ghasemshirazi/</loc>
+    <loc>/talk/</loc>
   </url>
   
   <url>
-    <loc>https://saeidshirazi.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
