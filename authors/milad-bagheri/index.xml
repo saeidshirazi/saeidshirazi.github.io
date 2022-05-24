@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Milad Bagheri | Saeid Shirazi</title>
+    <link>https://saeidshirazi.github.io/authors/milad-bagheri/</link>
+      <atom:link href="https://saeidshirazi.github.io/authors/milad-bagheri/index.xml" rel="self" type="application/rss+xml" />
+    <description>Milad Bagheri</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://saeidshirazi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Milad Bagheri</title>
+      <link>https://saeidshirazi.github.io/authors/milad-bagheri/</link>
+    </image>
+    
+    <item>
+      <title>Eschatological scrutiny of unprofessional usage of molecular docking; how unreliability in computational methods arises from amateurish mistakes</title>
+      <link>https://saeidshirazi.github.io/publication/eschatological/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://saeidshirazi.github.io/publication/eschatological/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
