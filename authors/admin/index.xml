@@ -5,12 +5,20 @@
     <link>https://saeidshirazi.github.io/authors/admin/</link>
       <atom:link href="https://saeidshirazi.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Saeid Ghasemshirazi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://saeidshirazi.github.io/authors/admin/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Saeid Ghasemshirazi</title>
       <link>https://saeidshirazi.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Enabling a Zero Trust Architecture in a 5G-enabled Smart Grid</title>
+      <link>https://saeidshirazi.github.io/publication/zerotrust/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://saeidshirazi.github.io/publication/zerotrust/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>UltraLearn: Next-Generation CyberSecurity Learning Platform</title>
