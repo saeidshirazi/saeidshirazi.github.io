@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Cybersecurity Researcher, PhD student in Computer Science from <a href='https://www.ccsl.carleton.ca/'>CCSL</a>.
 
 profile:
   align: right
