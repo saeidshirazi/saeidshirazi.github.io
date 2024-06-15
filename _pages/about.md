@@ -17,17 +17,19 @@ social: true # includes social icons at the bottom of the page
 
 ##### About
 
-I’m currently a Machine Learning Scientist at Huawei Noah’s Ark Lab, Montreal.
-I’m working on efficient training/finetuning of large-scale deep learning systems, including the topics of decentralized learning and parameter-efficient tuning. I’m also working on the alignment and reasoning of LLMs, using process-supervised reward models and inference-time intervention.
-
-Previously, I was a graduate student at , working with . I worked on the generalization and continual/decentralized training of deep neural networks.
-
-I was also a research intern at , worked on asynchronous time-series forecasting and regularization techniques for neural temporal point processes.
+I am a PhD candidate in Computer Science at Carleton University, working under the supervision of Dr. Lianying Zhao. My research focuses on cutting-edge topics in cybersecurity, including system security, IoT security, the application of machine learning to security, and smart contract security.
 
 ##### Research
 
-My research has focused on exploring innovative paradigms for the next generation of large-scale deep learning systems, given any source of supervision. These systems will exhibit continuous growth in modalities (multi-modal learning), tasks (continual learning), and computation (decentralized learning).
+As a cybersecurity researcher at the Carleton Computer Security Lab (CCSL), I specialize in cybersecurity, big data security, and machine learning-based detection systems. Currently, my research is centered on security audits in IoT and developing security metrics. I am also exploring innovative paradigms for creating the next generation of more secure systems.
 
-##### Writings
 
-I like sharing my thoughts and writings on machine learning ideas, concepts, and applications on my [Blog](/blog/) and [Twitter](https://twitter.com/naderasadi_).
+##### Content Creating
+I enjoy sharing my insights and knowledge on cybersecurity, particularly on web and Android security, through my [YouTube channel](https://www.youtube.com/@InfoSecTube).
+
+
+
+
+
+
+
