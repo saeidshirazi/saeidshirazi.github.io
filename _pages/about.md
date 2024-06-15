@@ -23,13 +23,6 @@ I am a PhD candidate in Computer Science at Carleton University, working under t
 
 As a cybersecurity researcher at the [Carleton Computer Security Lab (CCSL)](https://www.ccsl.carleton.ca/new/), I specialize in cybersecurity, big data security, and machine learning-based detection systems. Currently, my research is centered on security audits in IoT and developing security metrics. I am also exploring innovative paradigms for creating the next generation of more secure systems.
 
-
 ##### Content Creating
+
 I enjoy sharing my insights and knowledge on cybersecurity, particularly on web and Android security, through my [YouTube channel](https://www.youtube.com/@InfoSecTube).
-
-
-
-
-
-
-
