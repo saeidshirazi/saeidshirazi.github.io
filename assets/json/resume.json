@@ -41,10 +41,7 @@
       "studyType": "B.Sc.",
       "startDate": "2015",
       "endDate": "2020",
-      "courses": [
-        "GPA - 15.44/20",
-        "Project - Developed Python-Based Tools for Automated OSINT"
-      ]
+      "courses": ["GPA - 15.44/20", "Project - Developed Python-Based Tools for Automated OSINT"]
     }
   ],
   "work": [
@@ -156,7 +153,25 @@
     {
       "name": "Tools",
       "level": "",
-      "keywords": ["Burp Suite", "Wireshark", "Metasploit", "Nmap", "Splunk", "TCPdump", "hexedit", "hexdump", "pwn", "IDA Pro", "Google Cloud Platform", "Linux/UNIX", "Docker", "Git", "LaTeX", "PyTorch", "TensorFlow"]
+      "keywords": [
+        "Burp Suite",
+        "Wireshark",
+        "Metasploit",
+        "Nmap",
+        "Splunk",
+        "TCPdump",
+        "hexedit",
+        "hexdump",
+        "pwn",
+        "IDA Pro",
+        "Google Cloud Platform",
+        "Linux/UNIX",
+        "Docker",
+        "Git",
+        "LaTeX",
+        "PyTorch",
+        "TensorFlow"
+      ]
     },
     {
       "name": "Security Techniques",
@@ -224,6 +239,18 @@
       "date": "2015",
       "awarder": "",
       "summary": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Persian/Farsi",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
     }
   ],
   "interests": [
