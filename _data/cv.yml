@@ -45,12 +45,12 @@
       institution: Barez Industrial Group, Kerman, Iran
       year: 2020 - 2021
       description:
-        - Conducting security assessments, implementing measures, incident response, risk mitigation, collaboration, staying updated on threats, and promoting security awareness.
+        - Conducted security assessments, implemented measures, incident response, risk mitigation, collaboration, stayed updated on threats, and promoted security awareness.
     - title: Cybersecurity Content Creator
       institution: InfoSecTube YouTube Channel, Online
       year: 2019 - Present
       description:
-        - Creating and publishing engaging cybersecurity videos, courses, and tutorials on various topics such as penetration testing, network security, and ethical hacking.
+        - Created and published engaging cybersecurity videos, courses, and tutorials on various topics such as penetration testing, network security, and ethical hacking.
     - title: Internship
       institution: Graduate University of Advanced Technology (APA Center), Kerman, Iran
       year: 2018
@@ -62,38 +62,48 @@
   contents:
     - title: VulnHunt-Multi-Class CNN Model for Vulnerability Detection in Smart Contracts
       year: 2024
-      description: Submitted to The 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024)
+      description:
+        - Submitted to The 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024).
     - title: Zero Trust Applications, Challenges, and Opportunities
       year: 2023
-      description: arXiv preprint arXiv:2309.03582
+      description:
+        - arXiv preprint arXiv:2309.03582.
     - title: Enabling a Zero Trust Architecture in a 5G-enabled Smart Grid
       year: 2022
-      description: arXiv preprint arXiv:2210.01739
-    - title: IoT-Shield: A Novel DDoS Detection Approach for IoT-Based Devices
+      description:
+        - arXiv preprint arXiv:2210.01739.
+    - title: IoT-Shield A Novel DDoS Detection Approach for IoT-Based Devices
       year: 2021
-      description: 2021 11th Smart Grid Conference (SGC)
-    - title: Gitcbot: A Novel Approach for the Next Generation of C&C Malware
+      description:
+        - 2021 11th Smart Grid Conference (SGC).
+    - title: Gitcbot A Novel Approach for the Next Generation of C\&C Malware
       year: 2021
-      description: 2021 26th International Computer Conference, Computer Society of Iran (CSICC)
-    - title: UltraLearn: Next-Generation CyberSecurity Learning Platform
+      description:
+        - 2021 26th International Computer Conference, Computer Society of Iran (CSICC).
+    - title: UltraLearn Next-Generation CyberSecurity Learning Platform
       year: 2021
-      description: 2021 12th International Conference on Information and Knowledge Technology (IKT)
+      description:
+        - 2021 12th International Conference on Information and Knowledge Technology (IKT).
 
 - title: Featured Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/saeidshirazi/Awesome-Smart-Contract-Security">Awesome Smart Contract Security</a>
       year: 2023
-      description: A curated list of Smart Contract Security Materials and Resources for Researchers.
+      description:
+        - A curated list of Smart Contract Security Materials and Resources for Researchers.
     - title: <a href="https://github.com/saeidshirazi/IoT-Shield">IoT-Shield</a>
       year: 2022
-      description: Introducing IoT-Shield: A novel data mining technique coupled with process mining to identify misbehavior in IoT devices.
+      description:
+        - Introducing IoT-Shield: A novel data mining technique coupled with process mining to identify misbehavior in IoT devices.
     - title: <a href="https://github.com/saeidshirazi/PhishingDetection">Phishing Detection Application</a>
       year: 2020
-      description: Developed using Django and React Native, offers real-time phishing detection for mobile apps.
+      description:
+        - Developed using Django and React Native, offers real-time phishing detection for mobile apps.
     - title: <a href="https://github.com/saeidshirazi/ardu_encdec">Arduino Based Encryption and Decryption Module</a>
       year: 2019
-      description: Designed and Implemented with Arduino using the AES algorithm.
+      description:
+        - Designed and implemented with Arduino using the AES algorithm.
 
 - title: Technical Skills
   type: list
