@@ -2,94 +2,129 @@
   type: map
   contents:
     - name: Full Name
-      value: Saeid Shirazi
+      value: Saeid Ghasemshirazi
     - name: Languages
       value: English, Persian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Computer Science
       institution: Carleton University
-      year: 2024
+      year: 2024 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Supervised by Professor Lianying Zhao.
+    - title: M.Sc. in E-commerce
+      institution: University of Science & Technology, Tehran, Iran
+      year: 2020 - 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Supervised by Dr. Mohammad Fathian.
+        - GPA: 18.39/20.
+        - Thesis: A Novel CNN-based Approach for Smart Contract Vulnerability Detection.
+    - title: B.Sc. in Computer Engineering
+      institution: Shahid Bahonar University of Kerman, Kerman, Iran
+      year: 2015 - 2020
+      description:
+        - GPA: 15.44/20.
+        - Project: Developed Python-Based Tools for Automated OSINT.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research Assistant
+      institution: CCSL - Carleton Computer Security Lab, Ottawa, Canada
+      year: 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Focus: Utilizing machine learning for IoT audit, threat detection, and threat hunting.
+    - title: Graduate Research Assistant
+      institution: Iran University of Science & Technology, Ottawa, Canada
+      year: 2021 - 2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Focus: Conducted pioneering research to enhance smart contract security using deep learning techniques.
+    - title: Junior Security Consultant
+      institution: Barez Industrial Group, Kerman, Iran
+      year: 2020 - 2021
       description:
+        - Conducting security assessments, implementing measures, incident response, risk mitigation, collaboration, staying updated on threats, and promoting security awareness.
+    - title: Cybersecurity Content Creator
+      institution: InfoSecTube YouTube Channel, Online
+      year: 2019 - Present
+      description:
+        - Creating and publishing engaging cybersecurity videos, courses, and tutorials on various topics such as penetration testing, network security, and ethical hacking.
+    - title: Internship
+      institution: Graduate University of Advanced Technology (APA Center), Kerman, Iran
+      year: 2018
+      description:
+        - Hands-on research and learning for enhancing network security and combating cyber threats using tools like Wireshark and Burp Suite. Conducted vulnerability scans using Nessus and Acunetix and demonstrated proficiency in malware analysis using IDA Pro.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Featured Publications
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: VulnHunt-Multi-Class CNN Model for Vulnerability Detection in Smart Contracts
+      year: 2024
+      description: Submitted to The 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024)
+    - title: Zero Trust: Applications, Challenges, and Opportunities
+      year: 2023
+      description: arXiv preprint arXiv:2309.03582
+    - title: Enabling a Zero Trust Architecture in a 5G-enabled Smart Grid
+      year: 2022
+      description: arXiv preprint arXiv:2210.01739
+    - title: IoT-Shield: A Novel DDoS Detection Approach for IoT-Based Devices
+      year: 2021
+      description: 2021 11th Smart Grid Conference (SGC)
+    - title: Gitcbot: A Novel Approach for the Next Generation of C&C Malware
+      year: 2021
+      description: 2021 26th International Computer Conference, Computer Society of Iran (CSICC)
+    - title: UltraLearn: Next-Generation CyberSecurity Learning Platform
+      year: 2021
+      description: 2021 12th International Conference on Information and Knowledge Technology (IKT)
+
+- title: Featured Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/saeidshirazi/Awesome-Smart-Contract-Security">Awesome Smart Contract Security</a>
+      year: 2023
+      description: A curated list of Smart Contract Security Materials and Resources for Researchers.
+    - title: <a href="https://github.com/saeidshirazi/IoT-Shield">IoT-Shield</a>
+      year: 2022
+      description: Introducing IoT-Shield: A novel data mining technique coupled with process mining to identify misbehavior in IoT devices.
+    - title: <a href="https://github.com/saeidshirazi/PhishingDetection">Phishing Detection Application</a>
+      year: 2020
+      description: Developed using Django and React Native, offers real-time phishing detection for mobile apps.
+    - title: <a href="https://github.com/saeidshirazi/ardu_encdec">Arduino Based Encryption and Decryption Module</a>
+      year: 2019
+      description: Designed and Implemented with Arduino using the AES algorithm.
+
+- title: Technical Skills
+  type: list
+  contents:
+    - Languages: Python, C++, Shell Scripting, JavaScript
+    - Tools: Burp Suite, Wireshark, Metasploit, Nmap, Splunk, TCPdump, hexedit, hexdump, pwn, IDA Pro, Google Cloud Platform, Linux/UNIX, Docker, Git, LaTeX, PyTorch, TensorFlow
+    - Security Techniques: Penetration Testing, Intrusion Detection, Vulnerability Assessment, Threat Hunting
+    - Security Platforms: Cybersecurity frameworks (e.g., NIST, ISO, CIS), Security Information and Event Management (SIEM), OWASP Top10
+
+- title: Certificates
+  type: list
+  contents:
+    - Python for Cybersecurity Specialization, Coursera, InfoSec Institute
+    - Certified Network Security Specialist (CNSS), ICSI, International Cybersecurity Institute
+    - Security in Google Cloud Platform, Coursera, Google
+    - Machine Learning, Coursera, Stanford University
+    - Enterprise System Management and Security, Coursera, University of Colorado
+    - Detecting and Mitigating Cyber Threats and Attacks, Coursera, University of Colorado
+    - Software Security, Coursera, University of Maryland
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Ranked 2nd in E-commerce field among all cohorts of 2020.
+    - year: 2015
       items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Ranked 2nd in IT Engineering field among all cohorts of 2015.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Hobbies: Hiking, Reading, Coding
