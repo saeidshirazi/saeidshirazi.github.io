@@ -12,7 +12,7 @@ We will build a downloader in Rust, which will download and run a shell script (
 
 ## First Step: Setting Up Our First Rust Program
 
-```sh
+````sh
 cargo new simple-downloader
 cd simple-downloader
 
@@ -35,3 +35,4 @@ $ tree
 ├── Cargo.toml
 └── src
     └── main.rs
+````
