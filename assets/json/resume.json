@@ -285,12 +285,10 @@
     {
       "name": "CTF",
       "icon": "fa-solid fa-flag"
-
     },
     {
       "name": "Anime",
       "icon": "fa-solid fa-video"
-
     }
   ],
   "references": [
