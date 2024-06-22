@@ -196,14 +196,16 @@
       "issuer": "DeepLearning.AI"
     },
     {
-      "name": "Python for Cybersecurity Specialization",
-      "date": "",
-      "issuer": "Coursera, InfoSec Institute"
+      "name": "Foundations of Operationalizing MITRE ATT&CK",
+      "date": "2021",
+      "url": "https://www.credly.com/earner/earned/share/5d33fb16-5898-4591-a89b-eb55a6d3d17f",
+      "issuer": "AttackIQ"
     },
     {
-      "name": "Certified Network Security Specialist (CNSS)",
-      "date": "",
-      "issuer": "ICSI, International Cybersecurity Institute"
+      "name": "Python for Cybersecurity Specialization",
+      "date": "2021",
+      "url": "https://coursera.org/share/b135d52c61da6de8d3cd4d1064413ad5",
+      "issuer": "Coursera, InfoSec Institute"
     },
     {
       "name": "Security in Google Cloud Platform",
