@@ -19,14 +19,14 @@
       year: 2020 - 2023
       description:
         - Supervised by Dr. Mohammad Fathian.
-        - GPA:& 18.39/20.
-        - Thesis A Novel CNN-based Approach for Smart Contract Vulnerability Detection.
+        - GPA - 18.39/20.
+        - Thesis - A Novel CNN-based Approach for Smart Contract Vulnerability Detection.
     - title: B.Sc. in Computer Engineering
       institution: Shahid Bahonar University of Kerman, Kerman, Iran
       year: 2015 - 2020
       description:
-        - GPA: 15.44/20.
-        - Project: Developed Python-Based Tools for Automated OSINT.
+        - GPA - 15.44/20.
+        - Project -  Developed Python-Based Tools for Automated OSINT.
 
 - title: Experience
   type: time_table
@@ -40,7 +40,7 @@
       institution: Iran University of Science & Technology, Ottawa, Canada
       year: 2021 - 2023
       description:
-        - Focus: Conducted pioneering research to enhance smart contract security using deep learning techniques.
+        - Conducted pioneering research to enhance smart contract security using deep learning techniques.
     - title: Junior Security Consultant
       institution: Barez Industrial Group, Kerman, Iran
       year: 2020 - 2021
@@ -76,11 +76,11 @@
       year: 2021
       description:
         - 2021 11th Smart Grid Conference (SGC).
-    - title: Gitcbot A Novel Approach for the Next Generation of C\&C Malware
+    - title: Gitcbot - A Novel Approach for the Next Generation of C\&C Malware
       year: 2021
       description:
         - 2021 26th International Computer Conference, Computer Society of Iran (CSICC).
-    - title: UltraLearn Next-Generation CyberSecurity Learning Platform
+    - title: UltraLearn - Next-Generation CyberSecurity Learning Platform
       year: 2021
       description:
         - 2021 12th International Conference on Information and Knowledge Technology (IKT).
@@ -127,6 +127,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2021
+      items:
+        - Awarded Best Poster Presentation for "GITCBot - A Novel Approach for the Next Generation of C&C Malware" at the 2021 26th International Computer Conference, Computer Society of Iran (CSICC).
     - year: 2020
       items:
         - Ranked 2nd in E-commerce field among all cohorts of 2020.
@@ -137,4 +140,4 @@
 - title: Other Interests
   type: list
   contents:
-    - Hobbies: Hiking, Reading, Coding
+    - Hobbies: Hiking, Watching Anime, CTF
