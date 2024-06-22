@@ -196,41 +196,53 @@
       "issuer": "DeepLearning.AI"
     },
     {
-      "name": "Foundations of Operationalizing MITRE ATT&CK",
-      "date": "2021",
-      "url": "https://www.credly.com/earner/earned/share/5d33fb16-5898-4591-a89b-eb55a6d3d17f",
-      "issuer": "AttackIQ"
-    },
-    {
       "name": "Python for Cybersecurity Specialization",
       "date": "2021",
       "url": "https://coursera.org/share/b135d52c61da6de8d3cd4d1064413ad5",
       "issuer": "Coursera, InfoSec Institute"
     },
     {
+      "name": "Foundations of Operationalizing MITRE ATT&CK",
+      "date": "2020",
+      "url": "https://www.credly.com/earner/earned/share/5d33fb16-5898-4591-a89b-eb55a6d3d17f",
+      "issuer": "AttackIQ"
+    },
+
+    {
       "name": "Security in Google Cloud Platform",
-      "date": "",
+      "date": "2019",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/DXCB3Y6GLS5X",
       "issuer": "Coursera, Google"
     },
     {
       "name": "Machine Learning",
-      "date": "",
+      "date": "2019",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/F6E64QCSMAD7",
       "issuer": "Coursera, Stanford University"
     },
     {
       "name": "Enterprise System Management and Security",
-      "date": "",
+      "date": "2018",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/BWPARWYFKWLJ",
       "issuer": "Coursera, University of Colorado"
     },
     {
       "name": "Detecting and Mitigating Cyber Threats and Attacks",
-      "date": "",
+      "date": "2019",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/AGA4MD8X7JSE",
       "issuer": "Coursera, University of Colorado"
     },
     {
       "name": "Software Security",
-      "date": "",
+      "date": "2019",
+      "url": "https://www.coursera.org/account/accomplishments/verify/N9V5ZYG2J4M3",
       "issuer": "Coursera, University of Maryland"
+    },
+    {
+      "name": "Advanced Penetration Testing",
+      "date": "2019",
+      "url": "https://drive.google.com/file/d/14HO90eOt4y9Uibths5CCCz99KKDyGfTn/view",
+      "issuer": "Cybrary"
     }
   ],
   "awards": [
