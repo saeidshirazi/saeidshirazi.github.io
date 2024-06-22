@@ -190,6 +190,12 @@
   ],
   "certificates": [
     {
+      "name": "Red Teaming LLM Applications",
+      "date": "2024",
+      "url": "https://learn.deeplearning.ai/accomplishments/c86711cc-4119-425e-b8d0-8496257a2c93?usp=sharing",
+      "issuer": "DeepLearning.AI"
+    },
+    {
       "name": "Python for Cybersecurity Specialization",
       "date": "",
       "issuer": "Coursera, InfoSec Institute"
@@ -262,7 +268,10 @@
       "name": "Hiking"
     },
     {
-      "name": "Reading"
+      "name": "CTF"
+    },
+    {
+      "name": "Anime"
     }
   ],
   "references": [
