@@ -148,11 +148,13 @@
     {
       "name": "Programming Languages",
       "level": "",
-      "keywords": ["Python", "C++", "Shell Scripting", "JavaScript"]
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python", "C++", "C#","Shell Scripting", "JavaScript"]
     },
     {
       "name": "Tools",
       "level": "",
+      "icon": "fa-solid fa-user-secret",
       "keywords": [
         "Burp Suite",
         "Wireshark",
@@ -176,11 +178,13 @@
     {
       "name": "Security Techniques",
       "level": "",
+      "icon": "fa-solid fa-shield-halved",
       "keywords": ["Penetration Testing", "Intrusion Detection", "Vulnerability Assessment", "Threat Hunting"]
     },
     {
       "name": "Security Platforms",
       "level": "",
+      "icon": "fa-solid fa-file-contract",
       "keywords": ["Cybersecurity frameworks (e.g., NIST, ISO, CIS)", "Security Information and Event Management (SIEM)", "OWASP Top10"]
     }
   ],
@@ -261,5 +265,16 @@
       "name": "Reading"
     }
   ],
-  "references": []
+  "references": [
+    {
+      "name": "Academic References",
+      "icon": "fa-solid fa-graduation-cap",
+      "reference": "Available on request"
+    },
+    {
+      "name": "Professional References",
+      "icon": "fa-solid fa-briefcase",
+      "reference": "Available on request"
+    }
+  ]
 }
