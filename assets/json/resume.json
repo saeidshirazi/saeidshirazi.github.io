@@ -279,13 +279,18 @@
   ],
   "interests": [
     {
-      "name": "Hiking"
+      "name": "Hiking",
+      "icon": "fa-solid fa-person-hiking"
     },
     {
-      "name": "CTF"
+      "name": "CTF",
+      "icon": "fa-solid fa-flag"
+
     },
     {
-      "name": "Anime"
+      "name": "Anime",
+      "icon": "fa-solid fa-video"
+
     }
   ],
   "references": [
