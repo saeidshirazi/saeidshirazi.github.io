@@ -149,7 +149,7 @@
       "name": "Programming Languages",
       "level": "",
       "icon": "fa-solid fa-code",
-      "keywords": ["Python", "C++", "C#","Shell Scripting", "JavaScript"]
+      "keywords": ["Python", "C++", "C#", "Shell Scripting", "JavaScript"]
     },
     {
       "name": "Tools",
