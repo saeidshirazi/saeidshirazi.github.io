@@ -3,8 +3,8 @@
     "name": "Saeid Ghasemshirazi",
     "label": "PhD Student",
     "image": "",
-    "email": "",
-    "url": "",
+    "email": "saeidghshirazi@gmail.com",
+    "url": "https://saeidshirazi.github.io/",
     "summary": "",
     "location": {
       "city": "Ottawa",
@@ -41,7 +41,7 @@
       "studyType": "B.Sc.",
       "startDate": "2015",
       "endDate": "2020",
-      "courses": ["GPA - 15.44/20", "Project - Developed Python-Based Tools for Automated OSINT"]
+      "courses": ["Project - Developed Python-Based Tools for Automated OSINT"]
     }
   ],
   "work": [
