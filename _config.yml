@@ -156,19 +156,19 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname:  # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: 
-    rss_url: 
-  - name: 
+  - name:
+    rss_url:
+  - name:
     posts:
-      - url: 
-        published_date: 
+      - url:
+        published_date:
 
 # -----------------------------------------------------------------------------
 # Collections
