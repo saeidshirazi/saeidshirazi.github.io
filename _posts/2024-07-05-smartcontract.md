@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Android Packers 101: Guide to OWASP Smart Contract Top 10 Vulnerabilities
-
+title: Guide to OWASP Smart Contract Top 10 Vulnerabilities
 date: 2024-07-05 17:39:00
 description: You will be redirected to my Medium post.
 tags: owasp, smartcontract, blockchain
