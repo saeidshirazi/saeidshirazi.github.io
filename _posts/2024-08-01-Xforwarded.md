@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Great Rate Limit Escape: The Great Rate Limit Escape, An X-Forwarded-For Exploit Story
+title: The Great Rate Limit Escape, An X-Forwarded-For Exploit Story
 date: 2024-08-05 17:39:00
 description: You will be redirected to my Medium post.
 tags: owasp, web, RedTeam
