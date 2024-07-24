@@ -7,7 +7,7 @@ first_name: Saeid
 middle_name:
 last_name: Shirazi
 email: saeidghshirazi@gmail.com
-description:  # the ">" symbol means to ignore newlines until "footer_text:"
+description: # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text:
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
