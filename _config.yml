@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Saeid
 middle_name:
 last_name: Shirazi
-email: python -c "print('%s%s%s' % ('saeidghshirazi', chr(64), 'gmail.com'))"
+email: saeidghshirazi(at)gmail.com
 description: # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text:
 keywords: # add your own keywords or leave empty
