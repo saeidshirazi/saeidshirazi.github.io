@@ -1,25 +1,44 @@
 {
   "basics": {
     "name": "Saeid Ghasemshirazi",
-    "label": "PhD Student",
+    "label": "PhD Student in Computer Science",
     "image": "",
-    "email": "saeidghshirazi(at)gmail.com",
+    "email": "saeidghshirazi@gmail.com",
     "url": "https://saeidshirazi.github.io/",
-    "summary": "",
+    "summary": "PhD student in Computer Science specializing in security and smart contract vulnerability detection. Experience in leveraging deep learning for IoT and cybersecurity, with a strong research background and practical development skills.",
     "location": {
       "city": "Ottawa",
       "countryCode": "CA"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "saeidshirazi",
+        "url": "https://github.com/saeidshirazi"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "saeidshirazi",
+        "url": "https://www.linkedin.com/in/saeidshirazi"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "Saeid Ghasemshirazi",
+        "url": "https://scholar.google.com/citations?user=G-XUqsUAAAAJ"
+      }
+    ]
   },
   "education": [
     {
       "institution": "Carleton University",
+      "location": "Ottawa, Canada",
       "area": "Computer Science",
       "studyType": "PhD",
       "startDate": "2024",
       "endDate": "Present",
-      "courses": ["Supervised by Professor Lianying Zhao"]
+      "courses": [
+        "Supervised by Professor Lianying Zhao"
+      ]
     },
     {
       "institution": "University of Science & Technology",
@@ -30,8 +49,8 @@
       "endDate": "2023",
       "courses": [
         "Supervised by Dr. Mohammad Fathian",
-        "GPA - 18.39/20",
-        "Thesis - A Novel CNN-based Approach for Smart Contract Vulnerability Detection"
+        "GPA: 18.39/20",
+        "Thesis: A Novel CNN-based Approach for Smart Contract Vulnerability Detection"
       ]
     },
     {
@@ -41,7 +60,9 @@
       "studyType": "B.Sc.",
       "startDate": "2015",
       "endDate": "2020",
-      "courses": ["Project - Developed Python-Based Tools for Automated OSINT"]
+      "courses": [
+        "Project: Developed a Python-based tool for automated OSINT"
+      ]
     }
   ],
   "work": [
@@ -51,15 +72,23 @@
       "position": "Graduate Research Assistant",
       "startDate": "2024",
       "endDate": "Present",
-      "summary": "Utilizing machine learning for IoT audit, threat detection, and threat hunting"
+      "summary": "Leveraging machine learning techniques for IoT security audits, including threat detection and threat hunting. Developed a user-friendly tool for smart contract vulnerability detection using a novel CNN approach."
+    },
+    {
+      "name": "DANAPCO",
+      "location": "Kerman, Iran",
+      "position": "Back-End Developer",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Developed secure backend applications using Django. Integrated authentication and authorization mechanisms to protect sensitive data and user accounts. Implemented input validation and output encoding to prevent common vulnerabilities like SQL injection and XSS."
     },
     {
       "name": "Iran University of Science & Technology",
-      "location": "Ottawa, Canada",
+      "location": "Tehran, Iran",
       "position": "Graduate Research Assistant",
       "startDate": "2021",
       "endDate": "2023",
-      "summary": "Conducted pioneering research to enhance smart contract security using deep learning techniques"
+      "summary": "Investigated vulnerabilities in smart contracts and explored advanced deep learning techniques to enhance security in blockchain systems."
     },
     {
       "name": "Barez Industrial Group",
@@ -67,7 +96,7 @@
       "position": "Junior Security Consultant",
       "startDate": "2020",
       "endDate": "2021",
-      "summary": "Conducted security assessments, implemented measures, incident response, risk mitigation, collaboration, stayed updated on threats, and promoted security awareness"
+      "summary": "Conducted security assessments to identify vulnerabilities and implement protective measures. Monitored emerging threats and updated defense strategies."
     },
     {
       "name": "InfoSecTube YouTube Channel",
@@ -75,15 +104,15 @@
       "position": "Cybersecurity Content Creator",
       "startDate": "2019",
       "endDate": "Present",
-      "summary": "Created and published engaging cybersecurity videos, courses, and tutorials on various topics such as penetration testing, network security, and ethical hacking"
+      "summary": "Created and published engaging cybersecurity videos, courses, and tutorials on topics such as network security, penetration testing, and ethical hacking."
     },
     {
       "name": "Graduate University of Advanced Technology (APA Center)",
       "location": "Kerman, Iran",
-      "position": "Internship",
+      "position": "Intern",
       "startDate": "2018",
-      "endDate": "",
-      "summary": "Hands-on research and learning for enhancing network security and combating cyber threats using tools like Wireshark and Burp Suite. Conducted vulnerability scans using Nessus and Acunetix and demonstrated proficiency in malware analysis using IDA Pro"
+      "endDate": "2018",
+      "summary": "Enhanced network security through hands-on research using tools like Wireshark and Burp Suite. Conducted vulnerability scans with Nessus and Acunetix, and gained proficiency in malware analysis with IDA Pro."
     }
   ],
   "publications": [
@@ -93,27 +122,22 @@
       "publisher": "Submitted to The 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024)"
     },
     {
-      "name": "Zero Trust Applications, Challenges, and Opportunities",
-      "releaseDate": "2023",
-      "publisher": "arXiv preprint arXiv:2309.03582"
-    },
-    {
       "name": "Enabling a Zero Trust Architecture in a 5G-enabled Smart Grid",
       "releaseDate": "2022",
       "publisher": "arXiv preprint arXiv:2210.01739"
     },
     {
-      "name": "IoT-Shield A Novel DDoS Detection Approach for IoT-Based Devices",
+      "name": "IoT-Shield: A Novel DDoS Detection Approach for IoT-Based Devices",
       "releaseDate": "2021",
       "publisher": "2021 11th Smart Grid Conference (SGC)"
     },
     {
-      "name": "Gitcbot - A Novel Approach for the Next Generation of C&C Malware",
+      "name": "Gitcbot: A Novel Approach for the Next Generation of C&C Malware",
       "releaseDate": "2021",
       "publisher": "2021 26th International Computer Conference, Computer Society of Iran (CSICC)"
     },
     {
-      "name": "UltraLearn - Next-Generation CyberSecurity Learning Platform",
+      "name": "UltraLearn: Next-Generation CyberSecurity Learning Platform",
       "releaseDate": "2021",
       "publisher": "2021 12th International Conference on Information and Knowledge Technology (IKT)"
     }
@@ -122,25 +146,25 @@
     {
       "name": "Awesome Smart Contract Security",
       "releaseDate": "2023",
-      "summary": "A curated list of Smart Contract Security Materials and Resources for Researchers",
+      "summary": "A curated list of Smart Contract Security Materials and Resources for Researchers.",
       "url": "https://github.com/saeidshirazi/Awesome-Smart-Contract-Security"
     },
     {
       "name": "IoT-Shield",
       "releaseDate": "2022",
-      "summary": "Introducing IoT-Shield: A novel data mining technique coupled with process mining to identify misbehavior in IoT devices",
+      "summary": "A novel data mining technique coupled with process mining to identify misbehavior in IoT devices.",
       "url": "https://github.com/saeidshirazi/IoT-Shield"
     },
     {
       "name": "Phishing Detection Application",
       "releaseDate": "2020",
-      "summary": "Developed using Django and React Native, offers real-time phishing detection for mobile apps",
+      "summary": "Developed using Django and React Native, offers real-time phishing detection for mobile apps.",
       "url": "https://github.com/saeidshirazi/PhishingDetection"
     },
     {
-      "name": "Arduino Based Encryption and Decryption Module",
+      "name": "Arduino-Based Encryption and Decryption Module",
       "releaseDate": "2019",
-      "summary": "Designed and implemented with Arduino using the AES algorithm",
+      "summary": "Designed and implemented with Arduino using the AES algorithm.",
       "url": "https://github.com/saeidshirazi/ardu_encdec"
     }
   ],
@@ -149,30 +173,26 @@
       "name": "Programming Languages",
       "level": "",
       "icon": "fa-solid fa-code",
-      "keywords": ["Python", "C++", "C#", "Shell Scripting", "JavaScript"]
+      "keywords": ["Python", "C++", "Shell Scripting", "JavaScript"]
     },
     {
       "name": "Tools",
       "level": "",
-      "icon": "fa-solid fa-user-secret",
+      "icon": "fa-solid fa-toolbox",
       "keywords": [
         "Burp Suite",
         "Wireshark",
         "Metasploit",
         "Nmap",
-        "Splunk",
-        "TCPdump",
-        "hexedit",
-        "hexdump",
-        "pwn",
         "IDA Pro",
-        "Google Cloud Platform",
-        "Linux/UNIX",
+        "Splunk",
         "Docker",
         "Git",
-        "LaTeX",
+        "Google Cloud Platform",
+        "Linux/UNIX",
         "PyTorch",
-        "TensorFlow"
+        "TensorFlow",
+        "LaTeX"
       ]
     },
     {
@@ -185,16 +205,10 @@
       "name": "Security Platforms",
       "level": "",
       "icon": "fa-solid fa-file-contract",
-      "keywords": ["Cybersecurity frameworks (e.g., NIST, ISO, CIS)", "Security Information and Event Management (SIEM)", "OWASP Top10"]
+      "keywords": ["NIST", "ISO", "CIS", "OWASP Top 10", "SIEM"]
     }
   ],
   "certificates": [
-    {
-      "name": "Red Teaming LLM Applications",
-      "date": "2024",
-      "url": "https://learn.deeplearning.ai/accomplishments/c86711cc-4119-425e-b8d0-8496257a2c93?usp=sharing",
-      "issuer": "DeepLearning.AI"
-    },
     {
       "name": "Python for Cybersecurity Specialization",
       "date": "2021",
@@ -202,12 +216,11 @@
       "issuer": "Coursera, InfoSec Institute"
     },
     {
-      "name": "Foundations of Operationalizing MITRE ATT&CK",
+      "name": "Certified Network Security Specialist (CNSS)",
       "date": "2020",
-      "url": "https://www.credly.com/earner/earned/share/5d33fb16-5898-4591-a89b-eb55a6d3d17f",
-      "issuer": "AttackIQ"
+      "url": "",
+      "issuer": "International Cybersecurity Institute"
     },
-
     {
       "name": "Security in Google Cloud Platform",
       "date": "2019",
@@ -221,28 +234,10 @@
       "issuer": "Coursera, Stanford University"
     },
     {
-      "name": "Enterprise System Management and Security",
-      "date": "2018",
-      "url": "https://www.coursera.org/account/accomplishments/certificate/BWPARWYFKWLJ",
-      "issuer": "Coursera, University of Colorado"
-    },
-    {
       "name": "Detecting and Mitigating Cyber Threats and Attacks",
       "date": "2019",
       "url": "https://www.coursera.org/account/accomplishments/certificate/AGA4MD8X7JSE",
       "issuer": "Coursera, University of Colorado"
-    },
-    {
-      "name": "Software Security",
-      "date": "2019",
-      "url": "https://www.coursera.org/account/accomplishments/verify/N9V5ZYG2J4M3",
-      "issuer": "Coursera, University of Maryland"
-    },
-    {
-      "name": "Advanced Penetration Testing",
-      "date": "2019",
-      "url": "https://drive.google.com/file/d/14HO90eOt4y9Uibths5CCCz99KKDyGfTn/view",
-      "issuer": "Cybrary"
     }
   ],
   "awards": [
@@ -250,7 +245,7 @@
       "title": "Best Poster Presentation",
       "date": "2021",
       "awarder": "",
-      "summary": "Awarded for 'GITCBot - A Novel Approach for the Next Generation of C&C Malware' at the 2021 26th International Computer Conference, Computer Society of Iran (CSICC)"
+      "summary": "Awarded for 'Gitcbot - A Novel Approach for the Next Generation of C&C Malware' at the 2021 26th International Computer Conference, Computer Society of Iran (CSICC)."
     },
     {
       "title": "Ranked 2nd in E-commerce field among all cohorts of 2020",
@@ -283,7 +278,7 @@
       "icon": "fa-solid fa-person-hiking"
     },
     {
-      "name": "CTF",
+      "name": "CTF Competitions",
       "icon": "fa-solid fa-flag"
     },
     {
