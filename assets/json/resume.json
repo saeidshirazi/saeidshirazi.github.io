@@ -36,9 +36,7 @@
       "studyType": "PhD",
       "startDate": "2024",
       "endDate": "Present",
-      "courses": [
-        "Supervised by Professor Lianying Zhao"
-      ]
+      "courses": ["Supervised by Professor Lianying Zhao"]
     },
     {
       "institution": "University of Science & Technology",
@@ -60,9 +58,7 @@
       "studyType": "B.Sc.",
       "startDate": "2015",
       "endDate": "2020",
-      "courses": [
-        "Project: Developed a Python-based tool for automated OSINT"
-      ]
+      "courses": ["Project: Developed a Python-based tool for automated OSINT"]
     }
   ],
   "work": [
