@@ -38,7 +38,6 @@ $ git clone git@github.com:<your-username>/<your-repo-name>.git
 
 Starting version [v0.3.5](https://github.com/alshedivat/al-folio/releases/tag/v0.3.5), **al-folio** will automatically re-deploy your webpage each time you push new changes to your repository! :sparkles:
 
-
 ## Local setup using Docker (Recommended)
 
 Using Docker to install Jekyll and Ruby dependencies is the easiest way.
