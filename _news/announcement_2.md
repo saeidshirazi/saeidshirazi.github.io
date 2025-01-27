@@ -1,9 +1,8 @@
 ---
 layout: post
-#title: A long announcement with details
-date: 2023-09-06 16:11:00-0400
+date: 2024-01-08 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Defending My Master's Thesis on Smart Contract Security.
+Starting my PhD at Carleton University.
