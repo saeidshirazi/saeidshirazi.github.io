@@ -6,11 +6,3 @@ related_posts: false
 ---
 
 Recipient of the prestigious David and Rachel Epstein Foundation Scholarship for outstanding graduate academic performance.
-
-
-
-
-
-
-
-
